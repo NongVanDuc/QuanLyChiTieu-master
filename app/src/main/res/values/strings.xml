@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Thu chi cá nhân</string>
+    <string name="tab_profit">Doanh thu</string>
+    <string name="tab_spend">Khoản chi</string>
+    <string name="tab_statistical">Thống kê</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="doanhthu">Khoản thu</string>
+    <string name="chitieu">Chi tieu</string>
+    <string name="thongke">Thong ke</string>
+    <string name="all">Tất cả</string>
+    <string name="month">Tháng </string>
+    <string name="year">Năm </string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+    <string-array name="planets_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="year">
+        <item>2018</item>
+        <item>2019</item>
+        <item>2020</item>
+        <item>2021</item>
+        <item>2022</item>
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="checkIsNull">Vui lòng điền đầy đủ thông tin !</string>
+    <string name="profit">Khoản thu</string>
+    <string name="dataNull">Không có dữ liệu !!!</string>
+
+
+
+    <string name="my_own_cancel">Để sau</string>
+    <string name="my_own_message">Bạn có thích ứng dụng Quản lý thu chi này? Bạn có muốn đánh giá để ứng dụng ngày càng phát triển?</string>
+    <string name="my_own_rate">Ok</string>
+    <string name="my_own_thanks">Không hiện nữa</string>
+    <string name="my_own_title">Đánh giá</string>
+
+</resources>
